@@ -37,11 +37,11 @@ window.addEventListener("load", function () {
   }
 
   var buildUrl = "Build";
-  var loaderUrl = buildUrl + "/BuildUnzip.loader.js";
+  var loaderUrl = buildUrl + "/FluffyFoxBuild.loader.js";
   var config = {
-    dataUrl: buildUrl + "/BuildUnzip.data",
-    frameworkUrl: buildUrl + "/BuildUnzip.framework.js",
-    codeUrl: buildUrl + "/BuildUnzip.wasm",
+    dataUrl: buildUrl + "/FluffyFoxBuild.data",
+    frameworkUrl: buildUrl + "/FluffyFoxBuild.framework.js",
+    codeUrl: buildUrl + "/FluffyFoxBuild.wasm",
     streamingAssetsUrl: "StreamingAssets",
     companyName: "DefaultCompany",
     productName: "FluffyDummy",

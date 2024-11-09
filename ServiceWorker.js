@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-FluffyDummy-1.0";
 const contentToCache = [
-    "Build/BuildUnzip.loader.js",
-    "Build/BuildUnzip.framework.js",
-    "Build/BuildUnzip.data",
-    "Build/BuildUnzip.wasm",
+    "Build/FluffyFoxBuild.loader.js",
+    "Build/FluffyFoxBuild.framework.js",
+    "Build/FluffyFoxBuild.data",
+    "Build/FluffyFoxBuild.wasm",
     "TemplateData/style.css"
 
 ];
